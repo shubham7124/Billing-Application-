@@ -1,0 +1,8 @@
+.green-shadow {
+    box-shadow: 0 4px 8px rgba(0, 255, 0, 0.5); /* Adjust the color and opacity as needed */
+  }
+  
+  /* Red shadow */
+  .red-shadow {
+    box-shadow: 0 4px 8px rgba(255, 0, 0, 0.5); /* Adjust the color and opacity as needed */
+  }
